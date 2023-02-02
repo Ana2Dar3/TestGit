@@ -8,3 +8,9 @@ body {
     background-color: antiquewhite;
     color: black;
 }
+
+h1 {
+    font-style: italic;
+    color: red;
+    background-color:aliceblue;
+}
